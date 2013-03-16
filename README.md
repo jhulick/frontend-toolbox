@@ -24,6 +24,7 @@ _"★" recommended and currently used by the maintainer_
 
 ## Performance
 
+- [How to Lose Weight in the Browser](http://browserdiet.com/?utm_source=html5weekly&utm_medium=email) The definitive front-end performance guide
 - [HTTPArchive](http://httparchive.org/index.php) Performance stats and trends for the worlds most popular sites
 
 
