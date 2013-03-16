@@ -167,6 +167,7 @@ Should this be merged with 'JavaScript Build Tools' section below?
 
 - ★[Select2](http://ivaynberg.github.com/select2/) jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results
 - [HandsOnTable](http://handsontable.com) A minimalistic Excel-like data grid editor
+- [Fancytree](https://github.com/mar10/fancytree) successor of DynaTree
 - [jQuery.dForm](http://daffl.github.com/jquery.dform) HTML form generator
 - [FormatCurrency](http://code.google.com/p/jquery-formatcurrency/)
 - [MaskedInput](http://digitalbush.com/projects/masked-input-plugin/)
