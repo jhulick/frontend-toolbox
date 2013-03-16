@@ -107,6 +107,8 @@ Should this be merged with 'JavaScript Build Tools' section below?
 
 ### Standalone libraries (no dependencies)
 
+- [Parsley.js](http://parsley.org) Javascript forms validation
+- [Garlicjs](http://garlicjs.org) Persist form values locally, until the form is submitted
 - [Widow Tamer](http://artequalswork.com/posts/on-widows.php) fix typgraphic widows
 - [SwipeJS](http://swipejs.com/) lightweight mobile slider script
 - [accounting.js](http://josscrowcroft.github.com/accounting.js/) number, money and currency formatting, with optional excel-style column rendering
@@ -163,7 +165,9 @@ Should this be merged with 'JavaScript Build Tools' section below?
 
 #### Useful jQuery Plugins
 
-- ★[Select2](http://ivaynberg.github.com/select2/) jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+- ★[Select2](http://ivaynberg.github.com/select2/) jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results
+- [HandsOnTable](http://handsontable.com) A minimalistic Excel-like data grid editor
+- [jQuery.dForm](http://daffl.github.com/jquery.dform) HTML form generator
 - [FormatCurrency](http://code.google.com/p/jquery-formatcurrency/)
 - [MaskedInput](http://digitalbush.com/projects/masked-input-plugin/)
 - [Fresco](http://www.frescojs.com/) beautiful, responsive lightbox
