@@ -169,6 +169,7 @@ Should this be merged with 'JavaScript Build Tools' section below?
 - [HandsOnTable](http://handsontable.com) A minimalistic Excel-like data grid editor
 - [Fancytree](https://github.com/mar10/fancytree) successor of DynaTree
 - [Bootstrap Form Builder](http://http://bootstrap-forms.heroku.com/) Boostrap Form Builder
+- [jsPlumb](https://github.com/sporritt/jsplumb) Visually connect elements in UI
 - [jQuery.dForm](http://daffl.github.com/jquery.dform) HTML form generator
 - [FormatCurrency](http://code.google.com/p/jquery-formatcurrency/)
 - [MaskedInput](http://digitalbush.com/projects/masked-input-plugin/)
